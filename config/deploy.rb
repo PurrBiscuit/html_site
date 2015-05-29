@@ -1,5 +1,5 @@
 set :application, 'purrbiscuit'
-set :repo_url, 'git@github.com:stephenpurr/purrbiscuit.git'
+set :repo_url, 'git@github.com:purrbiscuit/purrbiscuit.git'
 set :deploy_to, '/var/www/purrbiscuit.com'
 set :user, 'app'
 
